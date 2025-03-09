@@ -1,3 +1,5 @@
+![Poeticlore Banner](https://github.com/poeticlore/poeticlore/blob/main/assets/banner.gif)
+
 # **Poeticlore** ✨  
 > _"Where code meets creativity, and logic dances with poetry."_  
 
