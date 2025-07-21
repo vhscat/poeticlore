@@ -1,4 +1,4 @@
-![VHSCAT Banner](https://github.com/poeticlore/poeticlore/blob/main/assets/banner.gif)
+![vhscat](https://github.com/user-attachments/assets/064c84f3-1fa5-4020-a665-c65647b0edc2)
 
 # **VHSCAT** ✨  
 
@@ -6,11 +6,12 @@ Welcome to **VHSCAT**, a digital archive of experiments, creations, and late-nig
 
 ## **Who am I?**  
 - A **seriously non-serious poetic programmer**
-- A human equivalent to a cat  
+- The human equivalent of a curious cat with too many tabs open  
 
 ## **What you’ll find here**  
 - **Experimental tech & creative projects**  
-- **Innovative ideas wrapped in elegant logic**    
+- **Innovative ideas wrapped in elegant logic**
+- **A mix of pixels, poetry, and programming**   
 
 ## **Guiding Philosophy**  
 VHSCAT is where ideas grow, evolve, and sometimes completely transform. **Code isn’t just code—it’s an art form.**  
