@@ -17,4 +17,5 @@ Welcome to **VHSCAT**, a digital archive of experiments, creations, and late-nig
 VHSCAT is where ideas grow, evolve, and sometimes completely transform. **Code isn’t just code—it’s an art form.**  
 
 ## **Status: Glamming up my life** 
+> currently executing: glam_up_life()
 Work in progress. Always.  
